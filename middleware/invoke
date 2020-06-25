@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/usr/bin/invoke_app "$@" -C "python @tool/bin/gsaimage/hello.py nanohub" -t TOOLNAME \
+                         -u anaconda3-5.1\
+                         -u pyqtgraph-0.10.0
