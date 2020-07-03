@@ -10,10 +10,13 @@
 -->
 Name | Role | github user | nanohub user | email | status
 ---|---|---|---|---|---
-Joe Shmo | PI | jshmo | jshmo | jshmo@nanocool.co | active
-Alice Land | developer | alice1 | alice2 | alice@wonderland | inactive
+Jeffrey Asubonteng | member | jasubon3 | jasubon3 | jeffreyasubonteng2010@gmail.com | active
+QuoVadis Savoy | member | qsavoy | qsavoy | quovadis_savoy_00@subr.edu| active
+Darren Adams | software Developer | dadamsncsa | dadamsncsa | dadams@illinois.edu | active
+Elif Ertekins | Developer | elif | elif | ertekin@illinois.edu | active
 
-**nanoMFG Github Team(s):** @coolteam
+
+**nanoMFG Github Team(s):** @face_mask_toolteam
 **nanoHUB Group(s):**
 
 ## 1. Introduction
@@ -21,6 +24,7 @@ Alice Land | developer | alice1 | alice2 | alice@wonderland | inactive
 
 ### 1.1 Purpose and Vision Statement
 <!--Why are we building this tool? What is the key benefit? How does it relate to existing tools and existing software? How does it fit into the overall objectives for the nanoMFG node? Who will use it?-->
+The FaceMask tool will help analyze how people wear mask in public. The key benefit of this tool is to predict the propagation of COVID-19 and other airborne diseases. This tool is different because we will use Artificial Intelligence. This tool could be use by the government, the center for diseases control, and all healthcare agencies.
 
 ### 1.2 References
 <!--List any documents or background material that are relevant.  Links are useful. For instance, a link to a wiki or readme page in the project repository, or link to a uploaded file (doc, pdf, ppt, etc.).-->
@@ -59,6 +63,7 @@ Features used
 Experience level
 Type of interaction
 Provide links to any user surveys, questionnaires, interviews, feedback or other relevant information.-->
+Individuals who use this tool apply different features to get an accurate results. This product is free and can be access by anyone or organization for their research.
 
 ### 3.2 User Requirements
 <!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. -->
