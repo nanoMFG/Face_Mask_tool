@@ -1,7 +1,7 @@
 # nanoMFG Software Planning Document
 <!-- Replace text below with long title of project:short-name -->
 ## FaceMask tool 
-### Target Release: #.#.# : Month Day, 20##
+### Target Release: 1.0.0 : August 2020
 
 ## Development Team
 <!-- Complete table for all team members 
