@@ -45,7 +45,7 @@ Users will be able to assess the accuracy and precision of the face mask detecto
 Users will be able to assess the accuracy and precision of the face mask detector by training and testing the framework on datasets of images. Users can upload their own images and use the tool to analyze them. 
 
 #### 2.2.2 Release Notes 
-##### v#.#.#
+##### v1.0.0
 
 ### 2.3 Scope and Limitations for Subsequent Releases
 <!--Short summary of  future envisioned roadmap for subsequent efforts.-->
