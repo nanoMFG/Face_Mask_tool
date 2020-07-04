@@ -13,7 +13,7 @@ Name | Role | github user | nanohub user | email | status
 Jeffrey Asubonteng | member | jasubon3 | jasubon3 | jeffreyasubonteng2010@gmail.com | active
 QuoVadis Savoy | member | qsavoy | qsavoy | quovadis_savoy_00@subr.edu| active
 Darren Adams | software Developer | dadamsncsa | dadamsncsa | dadams@illinois.edu | active
-Elif Ertekins | Developer | elif | elif | ertekin@illinois.edu | active
+Elif Ertekin | Developer | elif | elif | ertekin@illinois.edu | active
 
 
 **nanoMFG Github Team(s):** @face_mask_toolteam
@@ -32,6 +32,7 @@ This tool is based on the [COVID-19: Face Mask Detector](https://www.pyimagesear
 
 ## 2 Overview and Major Planned Features
 <!--Provide and overview characterising this proposed release.  Describe how users will interact with each proposed feature. Include a schematic/diagram to illustrate an overview of proposed software and achitecture componets for the project-->
+Users will be able to assess the accuracy and precision of the face mask detector by training and testing the framework on datasets of images. Users can upload their own images and use the tool to analyze them. 
 
 ### 2.1 Product Background and Strategic Fit
 <!--Provide context for the proposed product.  Is this a completely new projects, or next version of an existing project? This can include a description of any contextual research, or the status of any existing prototype application.  If this SPD describes a component, describe its relationship to larger system. Can include diagrams.-->
@@ -41,6 +42,7 @@ This tool is based on the [COVID-19: Face Mask Detector](https://www.pyimagesear
 
 
 ##### 2.2.1 Planned Features
+Users will be able to assess the accuracy and precision of the face mask detector by training and testing the framework on datasets of images. Users can upload their own images and use the tool to analyze them. 
 
 #### 2.2.2 Release Notes 
 ##### v#.#.#
@@ -64,7 +66,7 @@ Features used
 Experience level
 Type of interaction
 Provide links to any user surveys, questionnaires, interviews, feedback or other relevant information.-->
-This tool could be used by public health department or city planners interested in understanding the face mask wearing habits in their region.  Individuals who use this tool apply different features to get an accurate results. This product is free and can be access by anyone or organization for their research.
+This tool could be used by public health department or city planners interested in understanding the face mask wearing habits in their region.  Individuals who use this tool apply different features to get an accurate results. This product is free and can be accessed by anyone or organization for their research.
 
 ### 3.2 User Requirements
 <!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. -->
