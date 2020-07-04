@@ -68,6 +68,8 @@ Type of interaction
 Provide links to any user surveys, questionnaires, interviews, feedback or other relevant information.-->
 This tool could be used by public health department or city planners interested in understanding the face mask wearing habits in their region.  Individuals who use this tool apply different features to get an accurate results. This product is free and can be accessed by anyone or organization for their research.
 
+This tool may also be used for educational purposes.  It can be used to explore concepts such as computer vision and neural networks. 
+
 ### 3.2 User Requirements
 <!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. -->
 
