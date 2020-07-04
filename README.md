@@ -12,3 +12,5 @@ Southern University and A&M College
 University of Illinois at Urbana-Champaign 
 
 National Center for Supercomputing Applications 
+
+This tool is licensed under the GNU GENERAL PUBLIC LICENSE Version 3.
