@@ -71,7 +71,7 @@ This tool could be used by public health department or city planners interested 
 This tool may also be used for educational purposes.  It can be used to explore concepts such as computer vision and neural networks. 
 
 ### 3.2 User Requirements
-<!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. -->
+<!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. --> 
 
 ### 3.3 Proposed User Interface
 <!--Could include drawn mockups, screenshots of prototypes, comparison to existing software and other descriptions.--> 
@@ -82,6 +82,7 @@ Jupyter Notebook.
 
 ### 3.5 User Outreach Plan
 <!-- List upcoming activities designed to elicit user feedback and/or engage new users.  Use issues for activities that will be completed this iteration-->
+This tool will be advertised on nanoHUB via the nanoHUB newsletter. It will also be sent to faculty instructors who may use this tool in their classes.
 
 ## 4. Data And Quality Attributes
 
