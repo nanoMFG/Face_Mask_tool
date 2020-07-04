@@ -28,7 +28,7 @@ The FaceMask tool is designed to help analyze face mask wearing habits of the pu
 
 ### 1.2 References
 <!--List any documents or background material that are relevant.  Links are useful. For instance, a link to a wiki or readme page in the project repository, or link to a uploaded file (doc, pdf, ppt, etc.).-->
-This tool is based on the [COVID-19: Face Mask Detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/) and uses OpenCV, Keras/Tensorflow, and Deep Learning. The main source code has been implemented in a jupyter notebook. 
+This tool is based on the [COVID-19: Face Mask Detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/) developed by PyImageSearch and uses OpenCV, Keras/Tensorflow, and Deep Learning. The main source code has been implemented in a jupyter notebook. 
 
 ## 2 Overview and Major Planned Features
 <!--Provide and overview characterising this proposed release.  Describe how users will interact with each proposed feature. Include a schematic/diagram to illustrate an overview of proposed software and achitecture componets for the project-->
