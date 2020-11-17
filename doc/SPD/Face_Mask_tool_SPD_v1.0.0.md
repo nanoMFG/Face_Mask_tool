@@ -1,7 +1,7 @@
 # nanoMFG Software Planning Document
 <!-- Replace text below with long title of project:short-name -->
 ## FaceMask tool 
-### Target Release: #.#.# : Month Day, 20##
+### Target Release: 1.0.0 : August 2020
 
 ## Development Team
 <!-- Complete table for all team members 
@@ -13,7 +13,7 @@ Name | Role | github user | nanohub user | email | status
 Jeffrey Asubonteng | member | jasubon3 | jasubon3 | jeffreyasubonteng2010@gmail.com | active
 QuoVadis Savoy | member | qsavoy | qsavoy | quovadis_savoy_00@subr.edu| active
 Darren Adams | software Developer | dadamsncsa | dadamsncsa | dadams@illinois.edu | active
-Elif Ertekins | Developer | elif | elif | ertekin@illinois.edu | active
+Elif Ertekin | Developer | elif | elif | ertekin@illinois.edu | active
 
 
 **nanoMFG Github Team(s):** @face_mask_toolteam
@@ -24,13 +24,15 @@ Elif Ertekins | Developer | elif | elif | ertekin@illinois.edu | active
 
 ### 1.1 Purpose and Vision Statement
 <!--Why are we building this tool? What is the key benefit? How does it relate to existing tools and existing software? How does it fit into the overall objectives for the nanoMFG node? Who will use it?-->
-The FaceMask tool will help analyze how people wear mask in public. The key benefit of this tool is to predict the propagation of COVID-19 and other airborne diseases. This tool is different because we will use Artificial Intelligence. This tool could be use by the government, the center for diseases control, and all healthcare agencies.
+The FaceMask tool is designed to help analyze face mask wearing habits of the public. It uses neural networks to analyze publically available images to detect whether masks are being worn, and if so, whether they are being worn properly. 
 
 ### 1.2 References
 <!--List any documents or background material that are relevant.  Links are useful. For instance, a link to a wiki or readme page in the project repository, or link to a uploaded file (doc, pdf, ppt, etc.).-->
+This tool is based on the [COVID-19: Face Mask Detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/) developed by [PyImageSearch](https://www.pyimagesearch.com/) and uses OpenCV, Keras/Tensorflow, and Deep Learning. The main source code has been implemented in a jupyter notebook. 
 
 ## 2 Overview and Major Planned Features
 <!--Provide and overview characterising this proposed release.  Describe how users will interact with each proposed feature. Include a schematic/diagram to illustrate an overview of proposed software and achitecture componets for the project-->
+Users will be able to assess the accuracy and precision of the face mask detector by training and testing the framework on datasets of images. Users can upload their own images and use the tool to analyze them. 
 
 ### 2.1 Product Background and Strategic Fit
 <!--Provide context for the proposed product.  Is this a completely new projects, or next version of an existing project? This can include a description of any contextual research, or the status of any existing prototype application.  If this SPD describes a component, describe its relationship to larger system. Can include diagrams.-->
@@ -40,9 +42,10 @@ The FaceMask tool will help analyze how people wear mask in public. The key bene
 
 
 ##### 2.2.1 Planned Features
+Users will be able to assess the accuracy and precision of the face mask detector by training and testing the framework on datasets of images. Users can upload their own images and use the tool to analyze them. 
 
 #### 2.2.2 Release Notes 
-##### v#.#.#
+##### v1.0.0
 
 ### 2.3 Scope and Limitations for Subsequent Releases
 <!--Short summary of  future envisioned roadmap for subsequent efforts.-->
@@ -63,19 +66,23 @@ Features used
 Experience level
 Type of interaction
 Provide links to any user surveys, questionnaires, interviews, feedback or other relevant information.-->
-Individuals who use this tool apply different features to get an accurate results. This product is free and can be access by anyone or organization for their research.
+This tool could be used by public health department or city planners interested in understanding the face mask wearing habits in their region.  Individuals who use this tool apply different features to get an accurate results. This product is free and can be accessed by anyone or organization for their research.
+
+This tool may also be used for educational purposes.  It can be used to explore concepts such as computer vision and neural networks. 
 
 ### 3.2 User Requirements
-<!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. -->
+<!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. --> 
 
 ### 3.3 Proposed User Interface
-<!--Could include drawn mockups, screenshots of prototypes, comparison to existing software and other descriptions.-->
+<!--Could include drawn mockups, screenshots of prototypes, comparison to existing software and other descriptions.--> 
+Jupyter Notebook. 
 
 ### 3.4 Documentation Plan
 <!-- List planned documentation activities -->
 
 ### 3.5 User Outreach Plan
 <!-- List upcoming activities designed to elicit user feedback and/or engage new users.  Use issues for activities that will be completed this iteration-->
+This tool will be advertised on nanoHUB via the nanoHUB newsletter. It will also be sent to faculty instructors who may use this tool in their classes.
 
 ## 4. Data And Quality Attributes
 
