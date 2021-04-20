@@ -1,4 +1,4 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -C "python @tool/bin/gsaimage/hello.py nanohub" -t TOOLNAME \
+/usr/bin/invoke_app "$@" -C "python @tool/src/jupyter/Detect_Mask_Tool.ipynb" -t facemask \
                          -u anaconda-6 
